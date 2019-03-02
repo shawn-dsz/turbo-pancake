@@ -7,6 +7,6 @@
   },
   "scripts": {
     "test": "jshint hello.js",
-    "posttest": "echo $AUTHOR $TIME"
+    "posttest": "echo $AUTHOR $TIME $MY_VAR"
   }
 }
